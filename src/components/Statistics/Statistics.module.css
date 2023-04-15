@@ -1,6 +1,6 @@
 .statisticsContainer {
-  max-width: 100%;
-  margin-top: 5vh;
+  width: 480px;
+  margin-top: 10vh;
   display: flex;
   flex-direction: column;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -19,6 +19,7 @@
 
 .statList {
   display: flex;
+  justify-content: space-between;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -27,7 +28,7 @@
 
 .item {
   text-align: center;
-  padding: 24px;
+  padding: 25px;
   text-align: center;
   /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 0 0 0 10px; */
