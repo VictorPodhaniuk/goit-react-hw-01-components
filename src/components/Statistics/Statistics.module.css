@@ -1,5 +1,5 @@
 .statisticsContainer {
-  max-width: 25%;
+  max-width: 100%;
   margin-top: 5vh;
   display: flex;
   flex-direction: column;
@@ -8,7 +8,7 @@
 
 .title {
   margin: 0;
-  padding: 2rem;
+  padding: 30px 90px;
   text-transform: uppercase;
   text-align: center;
   color: #3e3f47;
@@ -27,7 +27,7 @@
 
 .item {
   text-align: center;
-  padding: 16px;
+  padding: 24px;
   text-align: center;
   /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 0 0 0 10px; */
@@ -35,7 +35,7 @@
 
 .label {
   display: block;
-  padding-top: 1.3rem;
+  margin-bottom: 10px;
   font-size: 1rem;
   color: #fff;
 }
